@@ -1,0 +1,22 @@
+
+.head{
+        background-color: rgb(255, 0, 0);
+        font-size: xx-large;
+        font-weight: bolder;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    
+    }
+.row{
+    margin: 70px 70px;
+}
+
+.col-6{
+    margin: 30px 30px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+}
